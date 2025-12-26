@@ -31,7 +31,7 @@ This project analyzes customer retention behavior using **Cohort Analysis**. By 
     ```
 3. **Run the Notebook**
     - Open `Cohort.ipynb` in Jupyter Notebook/Lab.
-    - Run the cells sequentially to process `data.csv` and generate the cohort chart.
+    - Run the cells sequentially to process `dummy_data.csv` and generate the cohort chart.
 
 ## File Structure
 
