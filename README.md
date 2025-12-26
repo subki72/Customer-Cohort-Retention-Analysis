@@ -38,7 +38,7 @@ This project analyzes customer retention behavior using **Cohort Analysis**. By 
 | File         | Description                                      |
 |--------------|--------------------------------------------------|
 | Cohort.ipynb | Main Jupyter Notebook containing the analysis code |
-| data.csv     | Transaction dataset (Anonymized/Dummy Data)      |
+| dummy_data.csv     | Transaction dataset (Anonymized/Dummy Data)      |
 | LICENSE      | MIT License details                              |
 | README.md    | Project documentation                            |
 
